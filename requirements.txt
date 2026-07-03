@@ -4,3 +4,5 @@ requests
 bs4
 pymongo
 gunicorn
+selenium
+webdriver-manager
